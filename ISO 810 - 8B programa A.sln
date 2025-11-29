@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISO 810 - 8B programa A", "ISO 810 - 8B programa A\ISO 810 - 8B programa A.csproj", "{E1614F62-4932-4A06-997E-13D4B4BF3B52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1614F62-4932-4A06-997E-13D4B4BF3B52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1614F62-4932-4A06-997E-13D4B4BF3B52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1614F62-4932-4A06-997E-13D4B4BF3B52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1614F62-4932-4A06-997E-13D4B4BF3B52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF4DA704-360E-45EE-91BA-9BE41019983F}
+	EndGlobalSection
+EndGlobal
